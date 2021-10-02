@@ -31,7 +31,7 @@
 
 Необходимо создать компонент `<Profile>`, с помощью которого мы могли бы
 отображать информацию о пользователе социальной сети. Данные о пользователе
-лежат в файле [user.json](./user.json).
+лежат в файле [user.json](https://github.com/goitacademy/react-homework/blob/master/homework-01/social-profile/user.json).
 
 ![Превью компонента Profile](./preview.png)
 
@@ -96,7 +96,7 @@ import user from 'путь/к/user.json;
 Создать компонет `<Statistics>`, который бы отображал статистику по переданным
 пропам. К примеру загрузки в облако по типу файлов, посещение веб-страницы
 пользователями разных стран, финансовые траты и т. п. Данные о статистике лежат
-в файле [statistical-data.json](./statistical-data.json).
+в файле [statistical-data.json](https://github.com/goitacademy/react-homework/blob/master/homework-01/statistics/statistical-data.json).
 
 ![Превью компонента Statistics](./preview.jpeg)
 
@@ -151,7 +151,7 @@ import statisticalData from "/путь/к/statistical-data.json";
 
 Необходимо создать компонент `<FriendList>`, с помощью которого мы могли бы
 отображать информацию о друзьях пользователя. Информация о друзьях хранится в
-файле [friends.json](./friends.json).
+файле [friends.json](https://github.com/goitacademy/react-homework/blob/master/homework-01/friend-list/friends.json).
 
 ![Превью компонента FriendList](./preview-fr.jpeg)
 
@@ -204,7 +204,7 @@ import friends from 'путь/к/friends.json';
 ![Превью компонента TransactionHistory](./preview-tr.jpeg)
 
 Данные для списка доступны в формате JSON в файле
-[transactions.json](./transactions.json). Это массив объектов, каждый объект
+[transactions.json](https://github.com/goitacademy/react-homework/blob/master/homework-01/transaction-history/transactions.json). Это массив объектов, каждый объект
 описывает одну транзакцию со следующими свойствами:
 
 - `id` — уникальный идентификатор транзакции
