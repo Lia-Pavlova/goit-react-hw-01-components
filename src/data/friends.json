@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://pngimg.com/uploads/mango/mango_PNG9165.png",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://pngimg.com/uploads/kiwi/kiwi_PNG4034.png",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://i.pinimg.com/originals/1b/5e/1c/1b5e1ca8f182156f9106095981de17b7.png",
+    "name": "Winnie",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://pngimg.com/uploads/mario/mario_PNG124.png",
+    "name": "Mario",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://i.pinimg.com/originals/b5/ba/17/b5ba17138dbccd29ff21371da3391047.png",
+    "name": "Minni",
+    "isOnline": false,
+    "id": 1284
+  }
+]
